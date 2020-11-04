@@ -25,7 +25,7 @@
     <show-object-properties value="true" />
     <loaded-nodes>
       <connection connection-id="738d8b4c-6e85-4f19-90e7-506e10b38c04">
-        <schema name="sakila" object-types="function, index, table, dataset trigger, procedure, constraint, column, view" />
+        <schema name="sakila" object-types="view, table" />
       </connection>
     </loaded-nodes>
   </component>

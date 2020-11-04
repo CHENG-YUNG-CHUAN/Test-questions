@@ -22,7 +22,9 @@ public class TestQ1 {
                 }
                 System.out.println(s);
             }
-
+            int f;
+            f=1;
+            System.out.print(f);
     }
 
 }
