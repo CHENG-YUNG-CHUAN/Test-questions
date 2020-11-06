@@ -23,7 +23,7 @@ public class TestQ1 {
                 System.out.println(s);
             }
             int f;
-            f=3;
+            f=4;
             System.out.print(f);
     }
 
